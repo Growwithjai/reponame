@@ -1,0 +1,8 @@
+01:20:46.826870 Log continuation - Log started 2024-09-11T16:24:42.681363800Z
+01:20:48.650445 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:23:18.930464 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:23:27.226604 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:29:19.150866 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+01:29:52.979291 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:32:47.329986 GUI: UICommon: Handling aboutToQuit request..
+01:32:48.058723 GUI: UICommon: aboutToQuit request handled!
